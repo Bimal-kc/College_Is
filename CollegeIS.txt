@@ -1,0 +1,16 @@
+1,   Informatics College,   Technical Institute and Professional School,   London Metropolitan University,   BIT,   Yes,   800000,   Matepani-12, Pokhara,  Nepal,   +977-61-538115
+2,   Islington College,   Technical Institute and Professional School,   London Metropolitan University,   BIT,   Yes,   1000000,   Kamal pokhari, Kathmandu, Nepal,   +977-01-597002
+3 ,   Herdal College,   Technical Institute and Professional School,   University of Wolver Hampton,   BIT / BBA,   Yes,   1200000,   Naxal, Kathmandu,   +977-01-5970024,   step by step,   Junior College,   Tribhuwan University,   BIT,   Yes,   8000202,   adfa,   0685522
+4,   Janapirya Multiple Campus,   Community College,   Tribhuwan University,   Management,   No,   400000,   Ratnachowk, Pokhara,   +977-01-245632
+5,   Gandaki College of Engineering and Science,   Community College,   Pokhara University,   Others,   No,   600000,   Lamachaur, Pokhara,   +977-01-858562
+6,   Baneshwor Multiple Campus,   Community College,   Tribhuwan University,   Others,   Yes,   550000,   Shantinagar, Kathmandu,   +977-01-4620310
+7,   Haraiya Multiple Campus,   Junior College,   Tribhuwan University,   Others,   Yes,   600000,   Rudrapur, Rupandehi,   +977-02-989652
+8,   Tilottama Campus,   Junior College,   Pokhara University,   Arts,   No,   750000,   Tilottama, Rupandehi,   +977-13-623158
+9,   Kailali Multiple Campus,   Junior College,   Kathmandu University,   Others,   Yes,   880000,   Dhangadi, Kailali,   +977-22-636589
+10,   Padma Kanya Campus,   Women's college,   Kathmandu University,   Arts / Others,   No,   1200000,   Bagbazar, Kathmandu,   +977-01-4221712
+11,   Nepalgunj Nursing Campus,   Women's college,   Tribhuwan University,   Others,   No,   1200000,   Nepalgunj,   +977-081-520160
+12,   Kanya Campus,   Women's college,   Kathmandu University,   Management / Arts / Others,   Yes,   840000,   Nadipur, Pokhara,   +977-061-963258
+13,   Nepal Academy of Tourism and Hotel Management,   Public College,   Kathmandu University,   Others,   Yes,   400000,   Kalimati, Kathmandu,   +977-01-4270605
+14,   Aadikavi Bhanubhakta Multiple Campus,   Public College,   Pokhara University,   BBA / Others,   Yes,   550000,   Damauli, Byas, Tanahun,   +977-061-525368
+15,   Dhawalagiri Multiple Campus,   Public College,   Pokhara University,   Management / Arts / BBA / Others,   Yes,   300000,   Baglung,   +977-062-666666
+16,   Himalayan,   Public College,   Tribhuwan University,   Engineering / Management / BIT / BBA,   Yes,   800,   Chhauthe, Nepal,   9867743236
