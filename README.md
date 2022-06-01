@@ -9,9 +9,11 @@ College Information System:
 <img width="1437" alt="image" src="https://user-images.githubusercontent.com/93597727/171433275-08148a02-73ca-4dfb-921a-de14c919e9f1.png">
 
 Help Interface:
+
 <img width="778" alt="image" src="https://user-images.githubusercontent.com/93597727/171433481-3720151a-2d9b-4210-b741-bc9f40dcc3eb.png">
 
 
-Also we can search college according to category and fee
+Also we can search college according to category and fee:
+
 <img width="459" alt="image" src="https://user-images.githubusercontent.com/93597727/171436304-4039b9d7-ea8a-47f0-9059-cacbe4f151bd.png">
 
